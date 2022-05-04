@@ -1,0 +1,148 @@
+h1 {
+  color: #5a6aca;
+  font-size: 22pt;
+  padding-top: 10px;
+  font-family: "Poppins", sans-serif;
+}
+h2 {
+  color: #5a6275;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  padding-top: 10px;
+}
+p {
+  color: #45a6f5;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 14pt;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  margin-bottom: 0px;
+}
+h4 {
+  color: #5a6275;
+  font-family: "Poppins", sans-serif;
+}
+h5 {
+  text-align: center;
+  color: #5a6275;
+  padding-top: 5px;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  border-style: solid;
+  border-color: #5a6aca;
+  border-width: 3px;
+  border-radius: 3px;
+  margin-top: 10px;
+  padding-bottom: 15px;
+  box-sizing: unset;
+}
+.search-text {
+  border-style: solid;
+  border-color: #5a6aca;
+  border-width: 2px;
+  width: 350px;
+}
+.search-button {
+  color: white;
+  background-color: #5a6aca;
+  border-radius: 25px;
+  border-style: none;
+  padding: 5px 10px;
+}
+.current-location-button {
+  color: #5a6275;
+  background-color: white;
+  border-radius: 5px;
+  border-style: solid;
+  font-size: small;
+}
+.card-body-header {
+  border-color: #5a6aca;
+  border-style: solid;
+  border-radius: 140px;
+  border-width: 1px;
+  display: block;
+  margin: 0 auto;
+  max-width: 450px;
+}
+.fahrenheit,
+.celsius {
+  color: #45a6f5;
+  border-color: #45a6f5;
+  background-color: white;
+  border-radius: 3px;
+}
+.fahrenheit {
+  border-style: solid;
+  margin-left: 20px;
+}
+.fahrenheit:hover {
+  background-color: #45a6f5;
+  color: white;
+}
+.celsius {
+  border-style: solid;
+  padding: 1px 5px;
+}
+.celsius:hover {
+  background-color: #45a6f5;
+  color: white;
+}
+.weather-today {
+  color: #ff7043;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.weather-details-today {
+  font-size: 16px;
+  display: block;
+}
+.partly-cloudy-1 {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 25px;
+  max-width: 120px;
+  max-height: 120px;
+}
+.search-city-form {
+  text-align: center;
+}
+.card-1,
+.card-2,
+.card-3,
+.card-4,
+.card-5 {
+  border-style: solid;
+  border-color: #5a6aca;
+  border-width: 1px;
+  border-radius: 3px;
+  max-width: 225px;
+  max-height: 255px;
+  display: block;
+  margin: 0 auto;
+}
+.forecast-details {
+  padding: 0px 0px;
+}
+.card-img-top {
+  display: block;
+  margin: 0 auto;
+  max-width: 50px;
+}
+.card-text {
+  color: #5a6275;
+  font-size: 20pt;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 0px;
+}
+.weather-details-small {
+  color: #5a6275;
+  font-size: 9pt;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
